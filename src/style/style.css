@@ -1,0 +1,7 @@
+.sidebar__listItem {
+	background-color: blue !important;
+}
+
+.sidebar__listItem--hasChildren {
+	background-color: red !important;
+}
