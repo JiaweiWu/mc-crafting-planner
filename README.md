@@ -12,5 +12,5 @@ followed by
 ```
 npm run start
 ```
-
-as Webpack will take of bundling the modules for you :)
+and then navigate to http://localhost:8080
+as Webpack will take care of bundling the modules and running a dev server for you :)
